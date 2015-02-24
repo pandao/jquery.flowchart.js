@@ -4,6 +4,10 @@ jQuery plugin for [flowchart.js](https://github.com/adrai/flowchart.js).
 
 ####Example
 
+[Demo](https://pandao.github.io/jquery.flowchart.js/examples/index.html)
+
+####Usage
+
 ```html
 <div class="flowchart">
 st=>start: User login
