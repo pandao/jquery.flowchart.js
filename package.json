@@ -1,0 +1,38 @@
+{
+  "name": "jquery.flowchart.js",
+  "version": "1.0.0",
+  "description": "jQuery plugin for flowchart.js.",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pandao/jquery.flowchart.js"
+  },
+  "keywords": [
+    "flowchart.js",
+    "jQuery plugin",
+    "jquery.flowchart.js"
+  ],
+  "author": "Pandao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pandao/jquery.flowchart.js/issues"
+  },
+  "homepage": "https://github.com/pandao/jquery.flowchart.js",
+  "devDependencies": {
+    "dateformatter": "^0.1.0",
+    "gulp": "^3.8.10",
+    "gulp-header": "^1.2.2",
+    "gulp-jshint": "^1.9.0",
+    "gulp-notify": "^2.1.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.0.2",
+    "gulp-util": "^3.0.1"
+  }
+}

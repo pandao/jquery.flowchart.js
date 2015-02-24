@@ -1,0 +1,13 @@
+logs
+*.log
+*.pid
+*.seed
+node_modules/
+.sass-cache/
+research/
+test/
+backup/
+*.bat
+*.sh
+.project
+.url

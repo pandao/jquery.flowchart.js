@@ -1,0 +1,21 @@
+{
+  "name": "jquery.flowchart.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pandao/jquery.flowchart.js",
+  "authors": [
+    "Pandao <pandao@vip.qq.com>"
+  ],
+  "description": "jQuery plugin for flowchart.js.",
+  "keywords": [
+    "jquery.flowchart.js",
+    "flowchart.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
