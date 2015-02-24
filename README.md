@@ -31,6 +31,17 @@ cond(no)->op
 </script>
 ```
 
+####Install & download
+
+Bower install:
+
+    bower install jquery.flowchart.js
+    
+Download: 
+
+- [jquery.flowchart.js](https://raw.githubusercontent.com/pandao/jquery.flowchart.js/master/dist/jquery.flowchart.js)
+- [jquery.flowchart.min.js](https://raw.githubusercontent.com/pandao/jquery.flowchart.js/master/dist/jquery.flowchart.min.js)
+
 ####Thanks
 
 Thanks to [flowchart.js](https://github.com/adrai/flowchart.js)'s work.
