@@ -6,14 +6,14 @@ jQuery plugin for [flowchart.js](https://github.com/adrai/flowchart.js).
 
 ```html
 <div class="flowchart">
-    st=>start: User login
-    op=>operation: Login operation
-    cond=>condition: Login successful Yes or No?
-    e=>end: Into admin panel
+st=>start: User login
+op=>operation: Login operation
+cond=>condition: Login successful Yes or No?
+e=>end: Into admin panel
 
-    st->op->cond
-    cond(yes)->e
-    cond(no)->op
+st->op->cond
+cond(yes)->e
+cond(no)->op
 </div>
 
 <script src="js/raphael.min.js"></script>
